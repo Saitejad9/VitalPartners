@@ -1,0 +1,110 @@
+.black img {
+    position: absolute;
+    top: 107cm;
+    width: 100%;
+    height: 650px;
+}
+.logo img {
+    width: 20%;
+    height: 10%;
+    margin-top: 2.5cm;
+    margin-left: 6cm;
+}
+.short p {
+    position: absolute;
+    margin-top: 18.3cm;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 17cm;
+    font-size: 27px;
+    opacity: 0.7;
+    color: white;
+    line-height: 1.5;
+}
+.call {
+    position: absolute;
+    margin-top: 21cm;
+    text-align: center;
+    font-family: Tangerine;
+    margin-left: 5cm;
+    font-size: 55px;
+    color: white;
+    line-height: 1.5;
+}
+.black .book button {
+    background-color: rgb(190, 205, 50);
+    border: none;
+    border-radius: 3px;
+    position: absolute;
+    color: rgb(245, 239, 239);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 21.5cm;
+    margin-left: 17cm;
+    cursor: pointer;
+}
+.black .book1 button {
+    background-color: rgb(190, 205, 50);
+    border: none;
+    border-radius: 3px;
+    position: absolute;
+    color: rgb(245, 239, 239);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 21.5cm;
+    margin-left: 25cm;
+    cursor: pointer;
+}
+.cinfo {
+    position: absolute;
+    margin-top: 25cm;
+    text-align: left;
+    margin-left: 5cm;
+    font-size: 15px;
+    color: lightgray;
+    opacity: 0.5;
+    line-height: 1.5;
+}
+.recent {
+    position: absolute;
+    margin-top: 25cm;
+    text-align: left;
+    margin-left: 15cm;
+    font-size: 15px;
+    color: lightgray;
+    opacity: 0.5;
+}
+.tweets {
+    position: absolute;
+    margin-top: 25cm;
+    text-align: left;
+    margin-left: 25cm;
+    font-size: 15px;
+    color: lightgray;
+    opacity: 0.5;
+    line-height: 1.8;
+}
+.terms {
+    position: absolute;
+    margin-top: 32cm;
+    text-align: center;
+    margin-left: 13.8cm;
+    font-size: 15px;
+    color: lightgray;
+    opacity: 0.5;
+}
+.us {
+    position: absolute;
+    margin-top: 31.7cm;
+    text-align: center;
+    margin-left: 25cm;
+    font-size: 15px;
+    color: lightgray;
+    opacity: 0.5;
+}

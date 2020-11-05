@@ -1,0 +1,260 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.steps img {
+    margin-top: 3cm;
+    width: 100%;
+}
+.centered1 {
+    position: absolute;
+    top: 222.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: white;
+}
+.high {
+    position: absolute;
+    top: 235%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    opacity: 0.8;
+}
+.step {
+    position: absolute;
+    top: 250%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;
+}
+.step1 {
+    position: absolute;
+    top: 250%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;
+}
+.step2 {
+    position: absolute;
+    top: 250%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;
+}
+.hop {
+    position: absolute;
+    top: 250%;
+    right: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;
+}
+.hop1 {
+    position: absolute;
+    top: 250%;
+    right: 27%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;
+}
+.skip {
+    position: absolute;
+    top: 250%;
+    right: 15%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;
+}
+.img {
+    position: absolute;
+    top: 245%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;  
+    width: 90px;
+    height: 90px;
+  }
+  .img1 {
+    position: absolute;
+    top: 245%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;  
+    width: 90px;
+    height: 90px;
+  }
+  .img2 {
+    position: absolute;
+    top: 245%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;  
+    width: 90px;
+    height: 90px;
+  }
+  .img3 {
+    position: absolute;
+    top: 245%;
+    left: 58.5%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;  
+    width: 90px;
+    height: 90px;
+  }
+  .img4 {
+    position: absolute;
+    top: 245%;
+    left: 69.5%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;  
+    width: 90px;
+    height: 90px;
+  }
+  .img5 {
+    position: absolute;
+    top: 245%;
+    left: 81.5%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    opacity: 0.7;  
+    width: 90px;
+    height: 90px;
+  }
+  .line {
+    position: absolute;
+    top: 263%;
+    left: 25.5%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: white;
+    opacity: 0.5;
+ }
+ .line1 {
+    position: absolute;
+    top: 263%;
+    left: 39.5%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: white;
+    opacity: 0.5;
+ }
+ .line2 {
+    position: absolute;
+    top: 263%;
+    left: 52.2%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: white;
+    opacity: 0.5;
+ } 
+ .line3 {
+    position: absolute;
+    top: 263%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: white;
+    opacity: 0.5;
+ }
+ .line4 {
+    position: absolute;
+    top: 263%;
+    left: 75.5%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: white;
+    opacity: 0.5;
+ }
+ .num  {
+    position: absolute;
+    top: 263%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    opacity: 0.1;
+  }
+  .num1 {
+    position: absolute;
+    top: 263%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    opacity: 0.1;
+  }
+  .num2 {
+    position: absolute;
+    top: 263%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    opacity: 0.1;
+  }
+  .num3 {
+    position: absolute;
+    top: 263%;
+    left: 58.5%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    opacity: 0.1;
+  }
+  .num4 {
+    position: absolute;
+    top: 263%;
+    left: 69.5%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    opacity: 0.1;
+  }
+  .num5 {
+    position: absolute;
+    top: 263%;
+    left: 81.5%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 50px;
+    opacity: 0.1;
+  }
+  .steps button {
+      position: absolute;
+      top: 273%;
+      left: 35%;
+     background-color: rgb(216, 233, 157);
+     border: 1px solid rgb(198, 226, 96);
+     color: black;
+     padding: 15px 50px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 20px;
+     margin: 4px 2px;
+     opacity: 0.8;
+     border-radius: 5px;
+  }

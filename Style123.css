@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.menu-bar {
+    background: white;
+    text-align: center;
+}
+.menu-bar ul {
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+.menu-bar ul li {
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a {
+    text-decoration: none;
+    color: black;    
+}
+.menu-bar ul li:hover {
+    background: #f9f9f9;
+    border-radius: 3px;
+}
+.menu-bar .fa {
+     margin-right: 8px;
+}
+.sub-menu-1 {
+    display: none;
+}
+.menu-bar ul li:hover .sub-menu-1 {
+    display: block;
+    position: absolute;
+    background: #f9f9f9;
+    border-radius: 5px;
+    margin-top: 15.5px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul {
+    display: block;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li {
+    width: 100px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    background: transparent;
+    text-align: left;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child {
+    border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover {
+    color: lightgreen;
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-size: 50px;
+    color: lightgray;
+}
+.container .row .banner img {
+    width: 100%;
+}
+ .heading{
+     margin-right: 5px;
+     font-size: 30px;
+     color: rgba(0, 0, 0, 0.705);
+     position: absolute;
+     top: 50%;
+     margin-left: 20cm;
+     text-align: center;
+    }
+    h2 {
+        text-align: left;
+        margin-top: 50px;
+        margin-left: 250px;
+        text-size-adjust: 200px;
+        font-size: 50px;
+    }
+.container .row .banner button {
+    background-color: rgb(159, 205, 50);
+    color: white;
+    border: 1px solid rgb(159, 205, 50);
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.8;
+    border-radius: 5px;
+    cursor: pointer;
+}
